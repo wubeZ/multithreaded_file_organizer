@@ -1,0 +1,30 @@
+# Python files
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Build files
+build/
+dist/
+
+# Test files
+*.egg-info/
+.eggs/
+
+# Sphinx documentation
+docs/_build/
+
+# Package files
+*.egg-info
+.dist-info
+build/
+dist/
